@@ -1,0 +1,15 @@
+QUIZ 1
+
+1. I would argue that it is not always usefull.
+
+14. C should be correct.  The set is just vertical. Each word is represented
+by a column, the rows create the set of the column.
+
+15: This question implies order matters.  A matrix is described as m rows and 
+n columns.  so the answer should be objects, attributes.
+
+17. Just bad strucutre if it is all of the above.
+
+
+
+
